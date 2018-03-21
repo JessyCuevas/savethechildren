@@ -15,3 +15,14 @@
 ## Costumer Journey Map
 
 ![journey.jpg](assets/images/journey.jpg)
+
+
+Colaboradores:
+
+* Anett Paulina Trujillo Marín
+* Joy Esquivel
+* Jessy Cuevas
+* Gaby Colín
+* Annet Trujillo Marín
+* Karina Mosqueda
+* Lía Laguna
