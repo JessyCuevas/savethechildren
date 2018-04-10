@@ -5,6 +5,6 @@ Lab-Car
  https://jessycuevas.github.io/labcar/
 
 
-![labacar-desktop.png](views\labcar-desktop.png)
+![readme-1.png](assets/images/readme-1.png)
 
 
