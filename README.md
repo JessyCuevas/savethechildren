@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAVE THE CHILDREN
 
 ## Definición del objetivo
@@ -26,3 +27,15 @@ Colaboradores:
 * Annet Trujillo Marín
 * Karina Mosqueda
 * Lía Laguna
+=======
+Lab-Car
+
+ Objetivo: Recrea página web para la aplicación Lab-Car en version móvil y desktop.
+
+ https://jessycuevas.github.io/labcar/
+
+
+![readme-1.png](assets/images/readme-1.png)
+
+
+>>>>>>> 0cddf2be4a6b2525f8379be0aa74fc6da3be8a62
