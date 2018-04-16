@@ -2,9 +2,7 @@
 
 ## Definición del objetivo
 
-![SaveTheChildren-18-01.png](assets/images/SaveTheChildren-18-01.png)
-
-![objetivo.jpg](assets/images/objetivo.jpg)
+![savethechildren-18-01](https://user-images.githubusercontent.com/32941215/38830642-a0486ad6-4182-11e8-8869-9f0b59a260bf.png)
 
 ![SaveTheChildren-18-02.png](assets/images/SaveTheChildren-18-02.png)
 
